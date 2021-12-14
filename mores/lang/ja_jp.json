@@ -1,0 +1,40 @@
+{
+    "item.mores.raw_diamond": "ダイヤモンドの原石",
+    "item.mores.raw_emerald": "エメラルドの原石",
+  
+    "block.mores.tuff_coal_ore": "凝灰岩石炭鉱石",
+    "block.mores.tuff_iron_ore": "凝灰岩鉄鉱石",
+    "block.mores.tuff_copper_ore": "凝灰岩銅鉱石",
+    "block.mores.tuff_gold_ore": "凝灰岩金鉱石",
+    "block.mores.tuff_lapis_ore": "凝灰岩ラピスラズリ鉱石",
+    "block.mores.tuff_redstone_ore": "凝灰岩レッドストーン鉱石",
+    "block.mores.tuff_diamond_ore": "凝灰岩ダイヤモンド鉱石",
+    "block.mores.tuff_emerald_ore": "凝灰岩エメラルド鉱石",
+  
+    "block.mores.granite_coal_ore": "花崗岩石炭鉱石",
+    "block.mores.granite_iron_ore": "花崗岩鉄鉱石",
+    "block.mores.granite_copper_ore": "花崗岩銅鉱石",
+    "block.mores.granite_gold_ore": "花崗岩金鉱石",
+    "block.mores.granite_lapis_ore": "花崗岩ラピスラズリ鉱石",
+    "block.mores.granite_redstone_ore": "花崗岩レッドストーン鉱石",
+    "block.mores.granite_diamond_ore": "花崗岩ダイヤモンド鉱石",
+    "block.mores.granite_emerald_ore": "花崗岩エメラルド鉱石",
+  
+    "block.mores.andesite_coal_ore": "安山岩石炭鉱石",
+    "block.mores.andesite_iron_ore": "安山岩鉄鉱石",
+    "block.mores.andesite_copper_ore": "安山岩銅鉱石",
+    "block.mores.andesite_gold_ore": "安山岩金鉱石",
+    "block.mores.andesite_lapis_ore": "安山岩ラピスラズリ鉱石",
+    "block.mores.andesite_redstone_ore": "安山岩レッドストーン鉱石",
+    "block.mores.andesite_diamond_ore": "安山岩ダイヤモンド鉱石",
+    "block.mores.andesite_emerald_ore": "安山岩エメラルド鉱石",
+  
+    "block.mores.diorite_coal_ore": "閃緑岩石炭鉱石",
+    "block.mores.diorite_iron_ore": "閃緑岩鉄鉱石",
+    "block.mores.diorite_copper_ore": "閃緑岩銅鉱石",
+    "block.mores.diorite_gold_ore": "閃緑岩金鉱石",
+    "block.mores.diorite_lapis_ore": "閃緑岩ラピスラズリ鉱石",
+    "block.mores.diorite_redstone_ore": "閃緑岩レッドストーン鉱石",
+    "block.mores.diorite_diamond_ore": "閃緑岩ダイヤモンド鉱石",
+    "block.mores.diorite_emerald_ore": "閃緑岩エメラルド鉱石"
+}
