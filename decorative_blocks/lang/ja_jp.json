@@ -47,15 +47,15 @@
     "block.decorative_blocks.thatch": "茅葺",
     
     "wiki.decorative_blocks.thatch": "干草の俵をハサミで切ることで作成できます。",
-    "wiki.decorative_blocks.support.condition1" : "§7Sneak right-click in air:",
-    "wiki.decorative_blocks.support.behavior1" : "§3Flip block item upside down",
-    "wiki.decorative_blocks.support.condition2" : "§7Right-click with an axe:",
-    "wiki.decorative_blocks.support.behavior2" : "§3Toggle a side between big and small",
-    "wiki.decorative_blocks.support.condition3" : "§7Sneak right-click with an axe:",
-    "wiki.decorative_blocks.support.behavior3" : "§3Hide/unhide a side",
-    "wiki.decorative_blocks.seat" :  "§3Sneak use on air to switch between states.",
+    "wiki.decorative_blocks.support.condition1" : "§7空中に向かってスニークしながら右クリックすると:",
+    "wiki.decorative_blocks.support.behavior1" : "§3手持ちの支えを逆さまにできます",
+    "wiki.decorative_blocks.support.condition2" : "§7設置したものを斧で右クリックすると:",
+    "wiki.decorative_blocks.support.behavior2" : "§3支えの板の大小を切り替えられます",
+    "wiki.decorative_blocks.support.condition3" : "§7設置したものをスニークしながら斧で右クリックすると:",
+    "wiki.decorative_blocks.support.behavior3" : "§3板の表示/非表示を切り替えられます",
+    "wiki.decorative_blocks.seat" :  "§3スニークしながら右クリックすると状態を変えることができます",
     "wiki.decorative_blocks.copy1" :  "§3Default usage pastes, sneak use to copy.",
     "wiki.decorative_blocks.copy2" :  "§3Copied: %s",
-    "message.decorative_blocks.invalid_bonfire_activator_config": "篝火の活性剤のconfig設定が間違っています！ ",
-    "message.decorative_blocks.invalid_bonfire_activator_config" : "Bonfire activator config wrong!"
+
+    "message.decorative_blocks.invalid_bonfire_activator_config" : "篝火の活性剤のconfig設定が間違っています！"
 }
