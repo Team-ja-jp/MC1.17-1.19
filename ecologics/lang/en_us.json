@@ -1,6 +1,6 @@
- 
- ​{ 
+​{ 
  ​  ​"block.ecologics.coconut"​: ​"​Coconut​"​, 
+ ​  ​"block.ecologics.hanging_coconut"​: ​"​Hanging Coconut​"​, 
  ​  ​"block.ecologics.coconut_button"​: ​"​Coconut Button​"​, 
  ​  ​"block.ecologics.coconut_door"​: ​"​Coconut Door​"​, 
  ​  ​"block.ecologics.coconut_fence"​: ​"​Coconut Fence​"​, 
@@ -15,6 +15,11 @@
  ​  ​"block.ecologics.coconut_trapdoor"​: ​"​Coconut Trapdoor​"​, 
  ​  ​"block.ecologics.coconut_wood"​: ​"​Coconut Wood​"​, 
  ​  ​"block.ecologics.seashell"​: ​"​Seashell​"​, 
+ ​  ​"block.ecologics.seashell_block"​: ​"​Seashell Block​"​, 
+ ​  ​"block.ecologics.seashell_tile_slab"​: ​"​Seashell Tile Slab​"​, 
+ ​  ​"block.ecologics.seashell_tile_stairs"​: ​"​Seashell Tile Stairs​"​, 
+ ​  ​"block.ecologics.seashell_tile_wall"​: ​"​Seashell Tile Wall​"​, 
+ ​  ​"block.ecologics.seashell_tiles"​: ​"​Seashell Tiles​"​, 
  ​  ​"block.ecologics.sandcastle"​: ​"​Sandcastle​"​, 
  ​  ​"block.ecologics.stripped_coconut_log"​: ​"​Stripped Coconut Log​"​, 
  ​  ​"block.ecologics.stripped_coconut_wood"​: ​"​Stripped Coconut Wood​"​, 
@@ -23,18 +28,25 @@
  ​  ​"death.attack.coconut"​: ​"​%1$s was bonked by a falling coconut​"​, 
  ​  ​"death.attack.coconut.player"​: ​"​%1$s was bonked by a falling coconut whilst fighting %2$s​"​, 
  ​  ​"ecologics.subtitles.block.coconut.smash"​: ​"​Coconut smashes​"​, 
+ ​  ​"ecologics.subtitles.block.thin_ice.crack"​: ​"​Thin ice cracks​"​, 
  ​  ​"ecologics.subtitles.entity.coconut_crab.ambient"​: ​"​Coconut Crab hisses​"​, 
  ​  ​"ecologics.subtitles.entity.coconut_crab.death"​: ​"​Coconut Crab dies​"​, 
  ​  ​"ecologics.subtitles.entity.coconut_crab.hurt"​: ​"​Coconut Crab hurts​"​, 
  ​  ​"entity.ecologics.coconut_crab"​: ​"​Coconut Crab​"​, 
+ ​  ​"entity.ecologics.camel"​: ​"​Camel​"​, 
+ ​  ​"entity.ecologics.penguin"​: ​"​Penguin​"​, 
+ ​  ​"entity.ecologics.boat"​: ​"​Boat​"​, 
  ​  ​"item.ecologics.coconut_crab_spawn_egg"​: ​"​Coconut Crab Spawn Egg​"​, 
+ ​  ​"item.ecologics.camel_spawn_egg"​: ​"​Camel Spawn Egg​"​, 
+ ​  ​"item.ecologics.penguin_spawn_egg"​: ​"​Penguin Spawn Egg​"​, 
  ​  ​"item.ecologics.coconut_slice"​: ​"​Coconut Slice​"​, 
  ​  ​"item.ecologics.crab_claw"​: ​"​Crab Claw​"​, 
  ​  ​"item.ecologics.crab_meat"​: ​"​Crab Meat​"​, 
  ​  ​"item.ecologics.tropical_stew"​: ​"​Tropical Stew​"​, 
  ​  ​"item.ecologics.music_disc_coconut"​: ​"​Music Disc​"​, 
+ ​  ​"item.ecologics.coconut_boat"​: ​"​Coconut Boat​"​, 
  ​  ​"item.ecologics.music_disc_coconut.desc"​: ​"​BooWho - coconut​"​, 
  ​  ​"itemGroup.ecologics"​: ​"​Ecologics​"​, 
  ​  ​"advancements.husbandry.sandcastle.title"​: ​"​Fortress of Sanditude​"​, 
  ​  ​"advancements.husbandry.sandcastle.description"​: ​"​Build a sandcastle to protect turtle eggs.​" 
- ​}
+}
