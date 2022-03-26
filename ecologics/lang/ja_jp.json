@@ -91,9 +91,10 @@
   "item.minecraft.splash_potion.effect.sliding": "低摩擦のスプラッシュポーション",
   "item.minecraft.lingering_potion.effect.sliding": "低摩擦の残留ポーション",
   "item.minecraft.tipped_arrow.effect.sliding": "低摩擦の矢",
+  "item.ecologics.walnut": "クルミ",
   "itemGroup.ecologics": "エコロジックス",
   "advancements.husbandry.sandcastle.title": "孤独の要塞",
   "advancements.husbandry.sandcastle.description": "カメの卵を守るために砂の城を建てる",
-  "advancements.husbandry.breed_penguin.title": "ハッピー フィート",
+  "advancements.husbandry.breed_penguin.title": "ハッピーフィート",
   "advancements.husbandry.breed_penguin.description": "ペンギンを繁殖させて、子供から羽根を手に入れる"
 }
