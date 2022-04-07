@@ -74,7 +74,7 @@
   "item.littlelogistics.tug_route.node_named": "%s. %s",
   "item.littlelogistics.tug_route.node_line": "ノード %s: %s, %s",
 
-  "item.littlelogistics.locomotive_route.description": "線路に向かって右クリックでその地点にノードを追加でき、既にあるノードの地点で再び右クリックすることによりノードを削除できます",
+  "item.littlelogistics.locomotive_route.description": "線路に向かって右クリックでその地点をルートに追加でき、追加済みの地点で再び右クリックすることによりその地点をルートから削除できます",
   "item.littlelogistics.locomotive_route.num_nodes": "ルートノード: %s",
   "item.littlelogistics.locomotive_route.added": "X:%s Y:%s Z:%sにルートノードを追加",
   "item.littlelogistics.locomotive_route.removed": "X:%s Y:%s Z:%sのルートノードを削除",
