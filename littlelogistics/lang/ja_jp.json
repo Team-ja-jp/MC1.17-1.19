@@ -19,6 +19,8 @@
   "item.littlelogistics.receiver_component": "ワイヤレス受信部品",
   "item.littlelogistics.transmitter_component": "ワイヤレス送信部品",
 
+  "item.littlelogistics.conductors_wrench": "コンダクターレンチ",
+
   "entity.littlelogistics.tug": "蒸気曳船",
   "entity.littlelogistics.barge": "チェスト付き艀",
   "entity.littlelogistics.chunk_loader_barge": "チャンクローダー付き艀",
@@ -48,6 +50,8 @@
   "block.littlelogistics.automatic_switch_rail": "自動切替レール",
   "block.littlelogistics.tee_junction_rail": "T字形切替レール",
   "block.littlelogistics.automatic_tee_junction_rail": "自動T字形切替レール",
+  "block.littlelogistics.locomotive_dock_rail": "機関車用ドックレール",
+  "block.littlelogistics.car_dock_rail": "貨車用ドックレール",
 
   "screen.littlelogistics.tug": "蒸気曳船",
   "screen.littlelogistics.fishing_barge": "自動釣り機付き艀",
@@ -96,7 +100,7 @@
   "entity.littlelogistics.fluid_barge.capacity": "%s %s/%s mB",
   "entity.littlelogistics.fluid_barge.capacity_empty": "空 0/%s mB",
 
-  "subtitle.littlelogistics.steam_tug_whistle": "蒸気曳船の汽笛が鳴りひびく",
-  "subtitle.littlelogistics.tug_docking": "曳船がドックに着く",
-  "subtitle.littlelogistics.tug_undocking": "曳船がドックを出発する"
+  "subtitle.littlelogistics.steam_tug_whistle": "乗り物の汽笛が鳴りひびく",
+  "subtitle.littlelogistics.tug_docking": "乗り物がドックに着く",
+  "subtitle.littlelogistics.tug_undocking": "乗り物がドックを出発する"
 }
