@@ -19,6 +19,8 @@
   "item.littlelogistics.receiver_component": "Wireless Receiver Component",
   "item.littlelogistics.transmitter_component": "Wireless Transmitter Component",
 
+  "item.littlelogistics.conductors_wrench": "Conductor's Wrench",
+
   "entity.littlelogistics.tug": "Steam Tug",
   "entity.littlelogistics.barge": "Chest Barge",
   "entity.littlelogistics.chunk_loader_barge": "Chunk Loader Barge",
@@ -48,6 +50,8 @@
   "block.littlelogistics.automatic_switch_rail": "Automatic Switch Rail",
   "block.littlelogistics.tee_junction_rail": "T-Junction Rail",
   "block.littlelogistics.automatic_tee_junction_rail": "Automatic T-Junction Rail",
+  "block.littlelogistics.locomotive_dock_rail": "Locomotive Docking Rail",
+  "block.littlelogistics.car_dock_rail": "Train Car Docking Rail",
 
   "screen.littlelogistics.tug": "Steam Tug",
   "screen.littlelogistics.fishing_barge": "Auto-Fishing Barge",
