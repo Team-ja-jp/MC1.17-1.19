@@ -1,0 +1,23 @@
+{
+  "block.everycomp.table": "%s Table",
+  "block.everycomp.chair": "%s Chair",
+  "block.everycomp.palisade": "%s Palisade",
+  "block.everycomp.support": "%s Support",
+  "block.everycomp.shelf": "%s Shelf",
+  "block.everycomp.beam": "%s Beam",
+  "block.everycomp.seat": "%s Seat",
+  "block.everycomp.post": "%s post",
+  "block.everycomp.stripped_post": "Stripped %s Post",
+  "block.everycomp.bookshelf": "%s Bookshelf",
+  "block.everycomp.hedge": "%s Leaf Hedge",
+  "block.everycomp.hollow_log": "Hollow %s Log",
+  "block.everycomp.vertical_planks": "Vertical %s Planks",
+  "block.everycomp.cabinet": "%s Cabinet",
+  "block.everycomp.window": "%s Window",
+  "block.everycomp.window_pane": "%s Window Pane",
+  "block.everycomp.railing": "%s Railing",
+  "block.everycomp.boards": "%s Boards",
+  "block.everycomp.banister": "%s Banister",
+  "block.everycomp.cut_post": "Cut %s Post",
+  "wood_type.twilightforest.dark": "Darkwood"
+}
