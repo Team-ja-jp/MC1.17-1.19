@@ -1,0 +1,33 @@
+{
+  "key.nutritionalbalance.opennutrientgui" : "栄養素のGUI",
+
+  "nutritionalbalance.nutrients" : "栄養素",
+
+  "nutritionalbalance.nutrient.proteins" : "タンパク質",
+  "nutritionalbalance.nutrient.carbs" : "炭水化物",
+  "nutritionalbalance.nutrient.dairy" : "乳成分",
+  "nutritionalbalance.nutrient.fruits" : "果物類",
+  "nutritionalbalance.nutrient.sugars" : "糖分",
+  "nutritionalbalance.nutrient.vegetables" : "野菜類",
+
+  "nutritionalbalance.nutrientstatus.MALNOURISHED" : "栄養失調",
+  "nutritionalbalance.nutrientstatus.SAFE" : "安全",
+  "nutritionalbalance.nutrientstatus.ON_TARGET" : "順調",
+  "nutritionalbalance.nutrientstatus.ENGORGED" : "食べ過ぎ",
+
+  "nutritionalbalance.nutrientstatus.msg.MALNOURISHED" : "栄養失調になりました。",
+  "nutritionalbalance.nutrientstatus.msg.SAFE" :         "食事のバランスは標準的です。",
+  "nutritionalbalance.nutrientstatus.msg.ON_TARGET" :    "食事のバランスが取れています。",
+  "nutritionalbalance.nutrientstatus.msg.ENGORGED" :     "食べ過ぎています。",
+
+  "nutritionalbalance.nutrientstatus.details.MALNOURISHED" : "少し遅く、弱いのを感じる。",
+  "nutritionalbalance.nutrientstatus.details.SAFE" :         "良くもなく、悪くもなく。",
+  "nutritionalbalance.nutrientstatus.details.ON_TARGET" :    "強く速く、効率的なのを感じる。",
+  "nutritionalbalance.nutrientstatus.details.ENGORGED" :     "少し遅く、非効率的なのを感じる",
+
+  "effect.nutritionalbalance.engorged_effect": "満腹",
+  "effect.nutritionalbalance.malnourished_effect": "栄養失調",
+  "effect.nutritionalbalance.nourished_effect": "食事バランス良好",
+
+  "nutritionalbalance.close" : "閉じる"
+}
