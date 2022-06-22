@@ -1,33 +1,33 @@
 {
-  "key.nutritionalbalance.opennutrientgui" : "‰h—{‘f‚ÌGUI",
+  "key.nutritionalbalance.opennutrientgui" : "æ „é¤Šç´ GUI",
 
-  "nutritionalbalance.nutrients" : "‰h—{‘f",
+  "nutritionalbalance.nutrients" : "æ „é¤Šç´ ",
 
-  "nutritionalbalance.nutrient.proteins" : "ƒ^ƒ“ƒpƒN¿",
-  "nutritionalbalance.nutrient.carbs" : "’Y…‰»•¨",
-  "nutritionalbalance.nutrient.dairy" : "“û¬•ª",
-  "nutritionalbalance.nutrient.fruits" : "‰Ê•¨—Ş",
-  "nutritionalbalance.nutrient.sugars" : "“œ•ª",
-  "nutritionalbalance.nutrient.vegetables" : "–ìØ—Ş",
+  "nutritionalbalance.nutrient.proteins" : "ã‚¿ãƒ³ãƒ‘ã‚¯è³ª",
+  "nutritionalbalance.nutrient.carbs" : "ç‚­æ°´åŒ–ç‰©",
+  "nutritionalbalance.nutrient.dairy" : "ä¹³æˆåˆ†",
+  "nutritionalbalance.nutrient.fruits" : "æœç‰©é¡",
+  "nutritionalbalance.nutrient.sugars" : "ç³–åˆ†",
+  "nutritionalbalance.nutrient.vegetables" : "é‡èœé¡",
 
-  "nutritionalbalance.nutrientstatus.MALNOURISHED" : "‰h—{¸’²",
-  "nutritionalbalance.nutrientstatus.SAFE" : "ˆÀ‘S",
-  "nutritionalbalance.nutrientstatus.ON_TARGET" : "‡’²",
-  "nutritionalbalance.nutrientstatus.ENGORGED" : "H‚×‰ß‚¬",
+  "nutritionalbalance.nutrientstatus.MALNOURISHED" : "æ „é¤Šå¤±èª¿",
+  "nutritionalbalance.nutrientstatus.SAFE" : "å®‰å…¨",
+  "nutritionalbalance.nutrientstatus.ON_TARGET" : "é †èª¿",
+  "nutritionalbalance.nutrientstatus.ENGORGED" : "é£Ÿã¹éã",
 
-  "nutritionalbalance.nutrientstatus.msg.MALNOURISHED" : "‰h—{¸’²‚É‚È‚è‚Ü‚µ‚½B",
-  "nutritionalbalance.nutrientstatus.msg.SAFE" :         "H–‚Ìƒoƒ‰ƒ“ƒX‚Í•W€“I‚Å‚·B",
-  "nutritionalbalance.nutrientstatus.msg.ON_TARGET" :    "H–‚Ìƒoƒ‰ƒ“ƒX‚ªæ‚ê‚Ä‚¢‚Ü‚·B",
-  "nutritionalbalance.nutrientstatus.msg.ENGORGED" :     "H‚×‰ß‚¬‚Ä‚¢‚Ü‚·B",
+  "nutritionalbalance.nutrientstatus.msg.MALNOURISHED" : "æ „é¤Šå¤±èª¿ã«ãªã‚Šã¾ã—ãŸã€‚",
+  "nutritionalbalance.nutrientstatus.msg.SAFE" :         "æ¨™æº–çš„ãªé£Ÿç”Ÿæ´»ã§ã™ã€‚",
+  "nutritionalbalance.nutrientstatus.msg.ON_TARGET" :    "ãƒãƒ©ãƒ³ã‚¹ã®å–ã‚ŒãŸé£Ÿç”Ÿæ´»ã§ã™ã€‚",
+  "nutritionalbalance.nutrientstatus.msg.ENGORGED" :     "é£Ÿã¹éãã¦ã„ã¾ã™ã€‚",
 
-  "nutritionalbalance.nutrientstatus.details.MALNOURISHED" : "­‚µ’x‚­Aã‚¢‚Ì‚ğŠ´‚¶‚éB",
-  "nutritionalbalance.nutrientstatus.details.SAFE" :         "—Ç‚­‚à‚È‚­Aˆ«‚­‚à‚È‚­B",
-  "nutritionalbalance.nutrientstatus.details.ON_TARGET" :    "‹­‚­‘¬‚­AŒø—¦“I‚È‚Ì‚ğŠ´‚¶‚éB",
-  "nutritionalbalance.nutrientstatus.details.ENGORGED" :     "­‚µ’x‚­A”ñŒø—¦“I‚È‚Ì‚ğŠ´‚¶‚é",
+  "nutritionalbalance.nutrientstatus.details.MALNOURISHED" : "å°‘ã—é…ãã€å¼±ã„ã®ã‚’æ„Ÿã˜ã‚‹ã€‚",
+  "nutritionalbalance.nutrientstatus.details.SAFE" :         "è‰¯ãã‚‚ãªãã€æ‚ªãã‚‚ãªãã€‚",
+  "nutritionalbalance.nutrientstatus.details.ON_TARGET" :    "å¼·ãé€Ÿãã€åŠ¹ç‡çš„ãªã®ã‚’æ„Ÿã˜ã‚‹ã€‚",
+  "nutritionalbalance.nutrientstatus.details.ENGORGED" :     "å°‘ã—é…ãã€éåŠ¹ç‡çš„ãªã®ã‚’æ„Ÿã˜ã‚‹",
 
-  "effect.nutritionalbalance.engorged_effect": "–• ",
-  "effect.nutritionalbalance.malnourished_effect": "‰h—{¸’²",
-  "effect.nutritionalbalance.nourished_effect": "H–ƒoƒ‰ƒ“ƒX—ÇD",
+  "effect.nutritionalbalance.engorged_effect": "é£Ÿã¹éã",
+  "effect.nutritionalbalance.malnourished_effect": "æ „é¤Šå¤±èª¿",
+  "effect.nutritionalbalance.nourished_effect": "é£Ÿäº‹ãƒãƒ©ãƒ³ã‚¹è‰¯å¥½",
 
-  "nutritionalbalance.close" : "•Â‚¶‚é"
+  "nutritionalbalance.close" : "é–‰ã˜ã‚‹"
 }
