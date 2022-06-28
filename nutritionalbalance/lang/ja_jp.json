@@ -21,7 +21,7 @@
   "nutritionalbalance.nutrientstatus.msg.ENGORGED" :     "食べ過ぎています。",
 
   "nutritionalbalance.nutrientstatus.details.MALNOURISHED" : "少し遅く、弱いのを感じる。",
-  "nutritionalbalance.nutrientstatus.details.SAFE" :         "良くもなく、悪くもなく。",
+  "nutritionalbalance.nutrientstatus.details.SAFE" :         "可もなく不可もなく。",
   "nutritionalbalance.nutrientstatus.details.ON_TARGET" :    "強く速く、効率的なのを感じる。",
   "nutritionalbalance.nutrientstatus.details.ENGORGED" :     "少し遅く、非効率的なのを感じる",
 
