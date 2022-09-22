@@ -240,9 +240,9 @@
   "farmersdelight.advancement.plant_all_crops.desc": "手に入るすべての野菜やフルーツ、菌類や根菜など、食に関わるあらゆる植物を栽培する",
 
   "farmersdelight.advancement.place_campfire": "火を灯せ",
-  "farmersdelight.advancement.place_campfire.desc": "焚き火を設置して、食料を調理する",
-  "farmersdelight.advancement.use_skillet": "携帯調理",
-  "farmersdelight.advancement.use_skillet.desc": "スキレットを使って、外出先で調理する。火のそばに立って、もう片方の手で食材を持とう！",
+  "farmersdelight.advancement.place_campfire.desc": "焚き火を設置して、食料を料理する",
+  "farmersdelight.advancement.use_skillet": "携帯料理",
+  "farmersdelight.advancement.use_skillet.desc": "スキレットを使って、外出先で料理する。火のそばに立って、もう片方の手で食材を持とう！",
   "farmersdelight.advancement.place_skillet": "焼けるような暑さ！",
   "farmersdelight.advancement.place_skillet.desc": "スニークしてスキレットをブロックとして設置する",
   "farmersdelight.advancement.place_cooking_pot": "夕食だ！",
@@ -271,13 +271,13 @@
   "farmersdelight.block.rice.invalid_placement": "この作物は浅い水中でしか育ちません",
   "farmersdelight.block.cutting_board.invalid_item": "これは切れるように見えない...",
   "farmersdelight.block.cutting_board.invalid_tool": "たぶん道具が違う...",
-  "farmersdelight.block.skillet.invalid_item": "これは調理できない...",
+  "farmersdelight.block.skillet.invalid_item": "これは料理できない...",
   "farmersdelight.item.skillet.how_to_cook": "もう一方の手で材料を持とう！",
 
   "death.attack.farmersdelight.stove": "%1$sは絶妙な焼き加減で焼かれた",
   "death.attack.farmersdelight.stove.player": "%1$sは%2$sシェフにグリルに投げ込まれた ",
 
-  "farmersdelight.jei.cooking": "調理",
+  "farmersdelight.jei.cooking": "料理",
   "farmersdelight.jei.cutting": "まな板",
   "farmersdelight.jei.chance": "%1$s%% チャンス",
   "farmersdelight.jei.decomposition": "分解",
