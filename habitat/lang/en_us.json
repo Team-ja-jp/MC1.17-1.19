@@ -49,6 +49,7 @@
   "block.habitat.fairy_ring_mushroom_chest": "Fairy Ring Mushroom Chest",
   "block.habitat.fairy_ring_mushroom_trapped_chest": "Fairy Ring Mushroom Trapped Chest",
   "block.habitat.fairy_ring_mushroom_beehive": "Fairy Ring Mushroom Beehive",
+  "block.habitat.fairy_ring_mushroom_cabinet": "Fairy Ring Mushroom Cabinet",
 
   "item.habitat.rafflesia": "Rafflesia",
   "item.habitat.kabloom_pulp": "Kabloom Pulp",
@@ -88,6 +89,8 @@
   "entity.habitat.pooka": "Pooka",
   "entity.habitat.passerine": "Passerine",
 
+  "habitat.container.cabinet": "Cabinet",
+
   "habitat.subtitles.block.rafflesia.spew": "Rafflesia spews",
   "habitat.subtitles.block.rafflesia.pop": "Rafflesia pops",
   "habitat.subtitles.block.rafflesia.slurp": "Rafflesia slurps",
@@ -109,7 +112,7 @@
   "habitat.subtitles.entity.pooka.hurt": "Pooka hurts",
   "habitat.subtitles.entity.pooka.jump": "Pooka hops",
   "habitat.subtitles.entity.pooka.pacify": "Pooka relaxes",
-  "habitat.subtitles.entity.pooka.shear": "Pooka changes",
+  "habitat.subtitles.entity.pooka.shear": "Shears chop",
   "habitat.subtitles.entity.rabbit.converted_to_pooka": "Rabbit changes",
   "habitat.subtitles.entity.parrot.imitate.pooka": "Parrot squeaks",
 
