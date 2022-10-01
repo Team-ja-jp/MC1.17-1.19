@@ -40,6 +40,7 @@
   "block.supplementaries.candelabra_silver": "Silver Candelabra",
   "block.supplementaries.item_shelf": "Item Shelf",
   "block.supplementaries.cog_block": "Cog Block",
+  "block.supplementaries.candle_holder": "Candle Holder",
   "block.supplementaries.sack": "Sack",
   "gui.supplementaries.blackboard.edit": "Edit Blackboard",
   "block.supplementaries.safe": "Safe",
@@ -399,5 +400,6 @@
   "block.supplementaries.laser_block": "Ender Beamer",
   "death.attack.supplementaries.amethyst_shard": "%1$s was sharded to death",
   "death.attack.supplementaries.amethyst_shard.player": "%1$s was sharded to death by %2$s",
-  "item.supplementaries.amethyst_arrow": "Amethyst Arrow"
+  "item.supplementaries.amethyst_arrow": "Amethyst Arrow",
+  "supplementaries.gui.info": "open Supplementaries page"
 }
